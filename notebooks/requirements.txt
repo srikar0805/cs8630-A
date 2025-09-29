@@ -147,6 +147,7 @@ pexpect
 pickleshare
 Pillow
 platformdirs
+plotnine
 pluggy
 prometheus-client
 prompt-toolkit
